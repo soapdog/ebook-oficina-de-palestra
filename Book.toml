@@ -1,0 +1,60 @@
+[metadata]
+title = "Oficina de Palestra"
+subtitle = "Um método para aprender a dar palestras junto com seus amigos."
+date = 2021-10-06T12:00:00Z
+identifier = "https://andregarzia/books/oficina-de-palestra"
+cover = "images/cover.png"
+license = "<a href='https://creativecommons.org/licenses/by-nc/4.0/deed.en_GB'><img src='book/images/license.svg'></a>"
+
+[author]
+name = "André Alves Garzia"
+bio = """
+Andre é escritor e desenvolvedor. Ele deveria estar escrevendo seu próximo livro porém provavelmente esta debugando alguma coisa que ele fez de brincadeira e agora ocupa mais tempo em sua vida do que a maioria das pessoas consideraria saudável. Ele já escreveu diversos livros técnicos em Inglês e Português, e espera lançar sua primeira novela de fantasia em 2022.
+"""
+photo = "images/author.png"
+
+[[links]]
+label = "Twitter"
+url = "https://twitter.com/soapdog"
+
+[[links]]
+label = "Blog"
+url = "https://andregarzia.com"
+
+[[links]]
+label = "Meus livros"
+url = "https://andregarzia.com/books.html"
+
+[publisher]
+name = "Little Webby Press"
+
+[webmonetization]
+endpoint = "$ilp.uphold.com/zdPRwAnyEkmM"
+
+[toc]
+prefix = "h3"
+label = "h1"
+match = "first"
+separator = ": "
+
+[book]
+chapters = [
+  "introducao.md",
+  "como-usar-esse-livro.md",
+  "dinamica-dois-minutos.md",
+  "tecnica-thoughtbox.md",
+  "tecnica-jornada-do-heroi.md",
+  "tecnica-242.md",
+  "dinamica-preparando-palestra.md",
+  "dinamica-mini-bio.md",
+  "dica-lidando-com-perguntas.md",
+  "dica-lidando-com-problemas.md",
+  "dica-palestra-online.md",
+  "dica-lidando-com-tretas.md",
+  "atividade-pesquisando-eventos.md",
+  "atividade-fortalecendo-o-grupo.md",
+  "atividade-presenca-online.md",
+  "atividade-meetups.md",
+  "conclusao.md",
+  "nota-do-autor.md"
+]

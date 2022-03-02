@@ -1,0 +1,2 @@
+### Dinâmica
+# Mini Bio

@@ -1,0 +1,2 @@
+### Dica
+# Lidando com perguntas
